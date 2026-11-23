@@ -1,0 +1,26 @@
+{
+  "name": "दीप सिद्धी - शिष्यवृत्ती स्मार्ट सराव",
+  "short_name": "दीप सिद्धी",
+  "description": "इयत्ता ४ थी प्राथमिक शिष्यवृत्ती परीक्षा - १००% ऑफलाईन स्मार्ट सराव अ‍ॅप",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F0F6FF",
+  "theme_color": "#1E88E5",
+  "lang": "mr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
