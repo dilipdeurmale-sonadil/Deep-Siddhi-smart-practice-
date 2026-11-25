@@ -1,4 +1,4 @@
-const CACHE_NAME = 'deep-siddhi-v27-icon-v2';
+const CACHE_NAME = 'deep-siddhi-v28-gunakar-bhagakar';
 const ASSETS = [
   './',
   './index.html',
