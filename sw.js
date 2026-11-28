@@ -1,4 +1,4 @@
-const CACHE_NAME = 'deep-siddhi-v32-marathi-complete';
+const CACHE_NAME = 'deep-siddhi-v33-math-5-6-complete';
 const ASSETS = [
   './',
   './index.html',
